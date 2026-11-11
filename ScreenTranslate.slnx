@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="apps/windows/ScreenTranslate/ScreenTranslate.csproj" />
+  <Project Path="tests/ScreenTranslate.Tests/ScreenTranslate.Tests.csproj" />
+</Solution>
